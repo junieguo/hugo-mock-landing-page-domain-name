@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Goodreads</title>
+    <link>https://junieguo.github.io/hugo-mock-landing-page/</link>
+    <description>Recent content on Goodreads</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Junie Guo</copyright>
+    <lastBuildDate>Thu, 13 Feb 2025 23:23:20 -0500</lastBuildDate>
+    <atom:link href="https://junieguo.github.io/hugo-mock-landing-page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Goodreads – Your Gateway to a World of Books</title>
+      <link>https://junieguo.github.io/hugo-mock-landing-page/post/about-goodreads/</link>
+      <pubDate>Thu, 13 Feb 2025 10:00:00 +0100</pubDate>
+      <guid>https://junieguo.github.io/hugo-mock-landing-page/post/about-goodreads/</guid>
+      <description>&lt;h1 id=&#34;goodreads--your-gateway-to-a-world-of-books&#34;&gt;Goodreads – Your Gateway to a World of Books&lt;/h1&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Find your next favorite book and connect with a world of readers!&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Reading is more than just a pastime—it&amp;rsquo;s an adventure, a journey into different worlds, perspectives, and ideas. With Goodreads, you can enhance that journey by keeping track of the books you&amp;rsquo;ve read, discovering new ones, and connecting with a community of passionate readers.&lt;/p&gt;&#xA;&lt;h2 id=&#34;-discover-books-tailored-to-you&#34;&gt;📚 Discover Books Tailored to You&lt;/h2&gt;&#xA;&lt;p&gt;Goodreads offers personalized book recommendations based on your reading history and preferences. Whether you love fantasy, mystery, romance, or non-fiction, you&amp;rsquo;ll always find something new and exciting to explore. Browse curated lists, check out trending books, and read reviews before making your next pick.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://junieguo.github.io/hugo-mock-landing-page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://junieguo.github.io/hugo-mock-landing-page/about/</guid>
+      <description>&lt;h1 id=&#34;about-us&#34;&gt;About Us&lt;/h1&gt;&#xA;&lt;p&gt;Made with ❤️ by the &lt;em&gt;Hugo Bootstrap Theme&lt;/em&gt; &lt;a href=&#34;https://github.com/filipecarneiro/hugo-bootstrap-theme/graphs/contributors&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;team&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://junieguo.github.io/hugo-mock-landing-page/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://junieguo.github.io/hugo-mock-landing-page/contact/</guid>
+      <description>&lt;h1 id=&#34;contact&#34;&gt;Contact&lt;/h1&gt;&#xA;&lt;p&gt;Junie Guo on &lt;a href=&#34;https://github.com/filipecarneiro/hugo-bootstrap-theme/issues/new&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sobre</title>
+      <link>https://junieguo.github.io/hugo-mock-landing-page/about.pt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://junieguo.github.io/hugo-mock-landing-page/about.pt/</guid>
+      <description>&lt;h1 id=&#34;sobre-nós&#34;&gt;Sobre nós&lt;/h1&gt;&#xA;&lt;p&gt;Feito com ❤️ pela &lt;a href=&#34;https://github.com/filipecarneiro/hugo-bootstrap-theme/graphs/contributors&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;equipa&lt;/a&gt; &lt;em&gt;Hugo Bootstrap Theme&lt;/em&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
