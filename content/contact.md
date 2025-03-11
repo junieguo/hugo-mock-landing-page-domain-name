@@ -8,4 +8,4 @@ menu:
 
 # Contact
 
-Junie Guo on [Github](https://github.com/filipecarneiro/hugo-bootstrap-theme/issues/new)
+[Open an issue](https://github.com/junieguo/hugo-mock-landing-page-autodeployed/issues/new) on GitHub.
