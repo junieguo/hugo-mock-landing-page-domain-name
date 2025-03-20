@@ -1,3 +1,3 @@
 User-agent: *
 Disallow: /404.html
-Sitemap: https://junieguo.github.io/hugo-mock-landing-page-domain-name/sitemap.xml
+Sitemap: https://junie.space/sitemap.xml
